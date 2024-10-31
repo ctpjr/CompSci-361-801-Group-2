@@ -1,12 +1,17 @@
-<group name>
+The POG Champs
 
 
-Availability for meeting expectations
-Response time to communication expectations
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-if you adopt such a policy during the initial meeting, put it here
-Procedure for handling a member who is not meeting expectations
-must include at least 3 actions before involving the instructor
-Signatures: each member must sign their name by typing their name at the bottom of the document.
+
+
+Work Norms:
+1. Work Assignments:
+a. Sprint Commitment:
+In sprint planning meetings each user will be assigned roughly the same amount of work.
+Each week each person can be expected to complete at least two small stories worth of work.
+
+b. Time Commitment Exemptions:
+If someone has an appropriate reason to not be able to do as much work then they will be assigned less work. 
+Needing a work exemption for more than 1 sprint will result in a minor group offense for all subsequent exemptions.
+
+2. Work Habits:
+Members of the group may work at any time that is convienent for them so long as it reasonably fits into the assigned deadlines.
